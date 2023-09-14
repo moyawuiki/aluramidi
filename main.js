@@ -1,0 +1,1 @@
+alert('casa amarela');
